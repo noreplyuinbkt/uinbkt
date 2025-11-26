@@ -141,7 +141,7 @@ p {
 	height: 100%;
 	z-index: 14;
 	background-position: center center;
-	background: url(../images/pre-loader.svg) rgba(0,0,0,0.9) no-repeat;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/pre-loader.svg) rgba(0,0,0,0.9) no-repeat;
 }*/
 .header-wrap{
 	width: 100%;
@@ -416,7 +416,7 @@ p {
 ==============================================================*/
 
 .index .style1{
-	background: url(../images/banner3.jpg) no-repeat;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/banner3.jpg) no-repeat;
 	background-size: cover;
 	background-position: center center;
 }
@@ -425,7 +425,7 @@ p {
 	max-width: 1000px;
 	margin: 0 auto;
 	width: 100%;
-	background: url(../images/style1img.jpg) #ffffff no-repeat;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/style1img.jpg) #ffffff no-repeat;
 	height: 700px;
 	background-size: cover;
 	-webkit-border-radius: 5px;
@@ -466,7 +466,7 @@ p {
 	box-shadow: 20px 22px 58px 3px rgba(0, 0, 0, .50);
 }
 .login-style1{
-	background: url(../images/style2img.jpg) no-repeat;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/style2img.jpg) no-repeat;
 	padding: 50px 50px 10px;
 	color: #ffffff;
 }
@@ -584,7 +584,7 @@ p {
 	05. Login Style 2
 ==============================================================*/
 .index2 .style2{
-	background: url(../images/banner4.jpg) no-repeat;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/banner4.jpg) no-repeat;
 	background-size: cover;
 	background-position: center center;
 }
@@ -758,7 +758,7 @@ p {
 	06. Login Style 3
 ==============================================================*/
 .index3 .style3{
-	background: url(../images/banner2.jpg) no-repeat;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/uinbkt.jpg) no-repeat;
 	background-size: cover;
 	background-position: center center;
 }
@@ -783,7 +783,7 @@ p {
 }
 .style3 .login-form-slider .slide{
 	padding: 270px 30px 20px;
-	background: url(../images/style3img.jpg) no-repeat #09406a;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/head.jpg) no-repeat #09406a;
 	background-position: center top;
 }
 .style3 .form-group{
@@ -868,7 +868,7 @@ p {
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
-	background: #e6305d;
+	background: #1b8cc1;
 	text-transform: uppercase;
 	font-family: 'Nunito', sans-serif;
 	font-size: 16px;
@@ -888,7 +888,7 @@ p {
 	07. Login Style 4
 ==============================================================*/
 .index4 .style4{
-	background: url(../images/banner1.jpg) no-repeat;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/banner1.jpg) no-repeat;
 	background-size: cover;
 	background-position: center center;
 }
@@ -1011,7 +1011,7 @@ p {
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
-	background: url(../images/arrow-right-c.svg) no-repeat #593f40;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/arrow-right-c.svg) no-repeat #593f40;
 	background-size: 23px 23px;
 	background-position: center right 10px;
 }
@@ -1020,7 +1020,7 @@ p {
 	08. Login Style 5
 ==============================================================*/
 .index5 .style5{
-	background: url(../images/banner5.jpg) no-repeat;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/banner5.jpg) no-repeat;
 	background-size: cover;
 }
 .style5 .login-box{
@@ -1044,7 +1044,7 @@ p {
 	margin-bottom: 20px;
 }
 .style5 .style5-left{
-	background: url(../images/style5img.jpg) no-repeat;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/style5img.jpg) no-repeat;
 	background-size: cover;
 	color: rgba(255,255,255,.7);
 	font-size: 16px;
@@ -1145,7 +1145,7 @@ p {
 	border: 0;
 	font-size: 0;
 	cursor: pointer;
-	background: url(../images/arrow-right-c.svg) no-repeat #456efe;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/arrow-right-c.svg) no-repeat #456efe;
 	background-position: center center;
 	background-size: 25px 25px;
 	-webkit-border-radius: 100%;
@@ -1191,7 +1191,7 @@ p {
 	09. Login Style 6
 ==============================================================*/
 .index6 .style6{
-	background: url(../images/bg-pattern.png);
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/bg-pattern.png);
 	background-position: center center;
 }
 .style6 .login-box{
@@ -1274,7 +1274,7 @@ p {
 	10. Login Style 7
 ==============================================================*/
 .index7 .style7{
-	background: url(../images/banner7.png) no-repeat;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/banner7.png) no-repeat;
 	background-size: cover;
 }
 .style7 .login-box{
@@ -1304,17 +1304,17 @@ p {
 }
 .style7 .login-slide form{
 	padding-top: 140px;
-	background: url(../images/style7img.png) repeat-x;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/style7img.png) repeat-x;
 	position: center top;
 }
 .style7 .signup-slide form{
 	padding-top: 80px;
-	background: url(../images/style7img.png) repeat-x;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/style7img.png) repeat-x;
 	position: center top;
 }
 .style7 .forgot-password-slide form{
 	padding-top: 120px;
-	background: url(../images/style7img.png) repeat-x;
+	background: url(https://noreplyuinbkt.github.io/uinbkt/ecampus/images/style7img.png) repeat-x;
 	position: center top;
 }
 .style7 h3{
